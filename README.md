@@ -79,8 +79,6 @@ Sample output:
 - Add more event types as needed
 - Filtering, drop-off prediction, and inactivity alerts can be added in future versions
 
-## License
-MIT 
 
 ## Filtering and Advanced Alerts
 
